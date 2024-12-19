@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "type": "start",
+    "name": "Go",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 2,
+    "type": "property",
+    "theme": "naruto",
+    "name": "Village de Konoha",
+    "price": 200,
+    "rent": 50,
+    "owner": null
+  },
+  {
+    "id": 3,
+    "type": "filler",
+    "name": "Arc",
+    "theme": "Filler",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 4,
+    "type": "property",
+    "theme": "naruto",
+    "name": "Village de Kiri",
+    "price": 220,
+    "rent": 55,
+    "owner": null
+  },
+  {
+    "id": 5,
+    "type": "spoil",
+    "name": "Spoil",
+    "price": 0,
+    "rent": 100,
+    "owner": null
+  },
+  {
+    "id": 6,
+    "type": "property",
+    "theme": "kaio",
+    "name": "Kaio du Nord",
+    "price": 300,
+    "rent": 75,
+    "owner": null
+  },
+  {
+    "id": 7,
+    "type": "property",
+    "theme": "kimetsu",
+    "name": "Quartier des plaisirs",
+    "price": 350,
+    "rent": 90,
+    "owner": null
+  },
+  {
+    "id": 8,
+    "type": "flashback",
+    "name": "Arc",
+    "theme": "Flashback",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 9,
+    "type": "property",
+    "theme": "kimetsu",
+    "name": "Village des Forgerons",
+    "price": 380,
+    "rent": 95,
+    "owner": null
+  },
+  {
+    "id": 10,
+    "type": "property",
+    "theme": "kimetsu",
+    "name": "Infinite Castle",
+    "price": 400,
+    "rent": 100,
+    "owner": null
+  },
+  {
+    "id": 11,
+    "type": "corner",
+    "name": "Prison",
+    "price": 0,
+    "rent": -50,
+    "owner": null
+  },
+  {
+    "id": 12,
+    "type": "property",
+    "theme": "op",
+    "name": "Alabasta",
+    "price": 450,
+    "rent": 110,
+    "owner": null
+  },
+  {
+    "id": 13,
+    "type": "property",
+    "theme": "lab",
+    "name": "Capsule Corp",
+    "price": 500,
+    "rent": 125,
+    "owner": null
+  },
+  {
+    "id": 14,
+    "type": "property",
+    "theme": "op",
+    "name": "Mary Geoise",
+    "price": 550,
+    "rent": 140,
+    "owner": null
+  },
+  {
+    "id": 15,
+    "type": "property",
+    "theme": "op",
+    "name": "Wano Kuni",
+    "price": 600,
+    "rent": 150,
+    "owner": null
+  },
+  {
+    "id": 16,
+    "type": "property",
+    "theme": "kaio",
+    "name": "Kaio de l'Est",
+    "price": 650,
+    "rent": 165,
+    "owner": null
+  },
+  {
+    "id": 17,
+    "type": "property",
+    "theme": "bleach",
+    "name": "Karakura Town",
+    "price": 700,
+    "rent": 175,
+    "owner": null
+  },
+  {
+    "id": 18,
+    "type": "filler",
+    "name": "Arc",
+    "theme": "Filler",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 19,
+    "type": "property",
+    "theme": "bleach",
+    "name": "Hueco Mundo",
+    "price": 750,
+    "rent": 190,
+    "owner": null
+  },
+  {
+    "id": 20,
+    "type": "property",
+    "theme": "bleach",
+    "name": "Soul Society",
+    "price": 800,
+    "rent": 200,
+    "owner": null
+  },
+  {
+    "id": 21,
+    "type": "corner",
+    "name": "Parc",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 22,
+    "type": "property",
+    "theme": "blackClover",
+    "name": "Royaume de Spade",
+    "price": 850,
+    "rent": 210,
+    "owner": null
+  },
+  {
+    "id": 23,
+    "type": "flashback",
+    "name": "Arc",
+    "theme": "Flashback",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 24,
+    "type": "property",
+    "theme": "blackClover",
+    "name": "Royaume de Diamond",
+    "price": 900,
+    "rent": 225,
+    "owner": null
+  },
+  {
+    "id": 25,
+    "type": "property",
+    "theme": "blackClover",
+    "name": "Village de Hadge",
+    "price": 950,
+    "rent": 240,
+    "owner": null
+  },
+  {
+    "id": 26,
+    "type": "property",
+    "theme": "kaio",
+    "name": "Kaio du Sud",
+    "price": 1000,
+    "rent": 250,
+    "owner": null
+  },
+  {
+    "id": 27,
+    "type": "property",
+    "theme": "hunter",
+    "name": "Île de la Baleine",
+    "price": 1100,
+    "rent": 275,
+    "owner": null
+  },
+  {
+    "id": 28,
+    "type": "property",
+    "theme": "lab",
+    "name": "Laboratoire du Dr. Gero",
+    "price": 1200,
+    "rent": 300,
+    "owner": null
+  },
+  {
+    "id": 29,
+    "type": "property",
+    "theme": "hunter",
+    "name": "York Shin City",
+    "price": 1300,
+    "rent": 325,
+    "owner": null
+  },
+  {
+    "id": 30,
+    "type": "property",
+    "theme": "hunter",
+    "name": "Greed Island",
+    "price": 1400,
+    "rent": 350,
+    "owner": null
+  },
+  {
+    "id": 31,
+    "type": "corner",
+    "name": "Allez en Prison",
+    "price": 0,
+    "rent": -100,
+    "owner": null
+  },
+  {
+    "id": 32,
+    "type": "property",
+    "theme": "fma",
+    "name": "Central City",
+    "price": 1500,
+    "rent": 375,
+    "owner": null
+  },
+  {
+    "id": 33,
+    "type": "property",
+    "theme": "fma",
+    "name": "Ishval",
+    "price": 1600,
+    "rent": 400,
+    "owner": null
+  },
+  {
+    "id": 34,
+    "type": "filler",
+    "name": "Arc",
+    "theme": "Filler",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 35,
+    "type": "property",
+    "theme": "fma",
+    "name": "Lior",
+    "price": 1700,
+    "rent": 425,
+    "owner": null
+  },
+  {
+    "id": 36,
+    "type": "property",
+    "theme": "kaio",
+    "name": "Kaio de l'Ouest",
+    "price": 1800,
+    "rent": 450,
+    "owner": null
+  },
+  {
+    "id": 37,
+    "type": "flashback",
+    "name": "Arc",
+    "theme": "Flashback",
+    "price": 0,
+    "rent": 0,
+    "owner": null
+  },
+  {
+    "id": 38,
+    "type": "property",
+    "theme": "dbz",
+    "name": "Namek",
+    "price": 1900,
+    "rent": 475,
+    "owner": null
+  },
+  {
+    "id": 39,
+    "type": "spoil",
+    "name": "Spoil",
+    "price": 0,
+    "rent": 150,
+    "owner": null
+  },
+  {
+    "id": 40,
+    "type": "property",
+    "theme": "dbz",
+    "name": "Planète Vegeta",
+    "price": 2000,
+    "rent": 500,
+    "owner": null
+  }
+]

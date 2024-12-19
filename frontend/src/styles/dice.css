@@ -1,0 +1,62 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  font-size: 24px;
+  font-weight: bold;
+}
+.dice-container {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px auto;
+}
+
+.dice-number {
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 0 30px;
+}
+
+.dice-number-sum {
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+button {
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: #b47a29;
+  width: 300px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #d9534f;
+}
+.reset-game {
+  background-color: #165a8a;
+}
+.reset-game:hover {
+  background-color: #6ebbff;
+}
